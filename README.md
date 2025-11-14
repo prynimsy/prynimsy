@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/7yUVEkU.gif" width="180" />
+<img src="https://media1.tenor.com/m/BJ-9w-MUVCMAAAAd/tis100-sad.gif" width="180" />
 
 **`Designer • Frontend Developer • Dreamy Pixel Enthusiast`**
 
@@ -46,11 +46,6 @@ I'm introverted but super expressive through visuals, pixels and interfaces.
 | 🖌 Procreate | 🌐 HTML/CSS/Tailwind | 🗄 Node.js & MongoDB |
 | ✏️ Branding & UI Aesthetics | ⚙️ JavaScript | 💡 System Design |
 
---------|-------------|----------|
-| 🎨 Figma | ⚛️ React | 🧠 DSA (C++) |
-| 🖌 Procreate | 🌐 HTML/CSS/Tailwind | 🗃 SQL |
-| 🩵 Aesthetic UI | 🚀 Node.js | 📚 System Design |
-
 ---
 
 ## 🎀 GitHub Stats (Auto Theme)
@@ -71,6 +66,6 @@ I'm introverted but super expressive through visuals, pixels and interfaces.
 
 **Thanks for visiting ♡**
 
-<img src="https://i.imgur.com/EZ80FZQ.gif" width="200" />
+<img src="https://media.tenor.com/mJT8ouhb5aYAAAAi/cinnamoroll-sanrio.gif" width="200" />
 
 </div>
