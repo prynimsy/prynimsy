@@ -1,4 +1,4 @@
-# 🌸✨ Hi, I'm Pragyan! ✨🌸
+# 🌸✨ Hi, I'm Pragyan! 🌸 (Frontend Dev + Designer) ✨🌸
 
 <div align="center">
 
@@ -34,33 +34,33 @@ I'm introverted but super expressive through visuals, pixels and interfaces.
 ---
 
 ## 🎀 Featured Projects
-
-### 🌏 **CurrencyEase — Global Currency Helper**
-Soft UI + ultra simple UX to find exchange rates.
-
-> *Smooth, minimal, designed for travelers who like cute things.*
-
-### 🎧 **MoodFlow — Music x Emotion Journal**
-Tracks your daily mood based on songs you love!
-
-### 💗 **Kawaii Personal Portfolio (WIP)**
-Inspired by Carrd, pastel aesthetics, and soft gradients.
+> *No projects yet — but cute, aesthetic showcases are coming soon!* ✨
+> I’ll add snapshots + repo links here as I grow my dev journey ♡
 
 ---
 
 ## 🍥 Tools I Use
-| Design | Development | Learning |
-|--------|-------------|----------|
+| Design Tools | Frontend | Currently Learning |
+|--------------|-----------|--------------------|
+| 🎨 Figma | ⚛️ React | 🧠 Full‑Stack Basics |
+| 🖌 Procreate | 🌐 HTML/CSS/Tailwind | 🗄 Node.js & MongoDB |
+| ✏️ Branding & UI Aesthetics | ⚙️ JavaScript | 💡 System Design |
+
+--------|-------------|----------|
 | 🎨 Figma | ⚛️ React | 🧠 DSA (C++) |
 | 🖌 Procreate | 🌐 HTML/CSS/Tailwind | 🗃 SQL |
 | 🩵 Aesthetic UI | 🚀 Node.js | 📚 System Design |
 
 ---
 
-## 🎀 GitHub Stats (Soft Mode)
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&theme=buefy)
+## 🎀 GitHub Stats (Auto Theme)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&theme=buefy)
+![Stats](https://github-readme-stats.vercel.app/api?username=prynimsy&show_icons=true&hide_border=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prynimsy&layout=compact&hide_border=true&theme=default)
+
+</div>
 
 ---
 
